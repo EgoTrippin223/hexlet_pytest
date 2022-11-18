@@ -1,4 +1,4 @@
-from hexlet_pytest.example import reverse
+from hexlet_pytest.hexlet_pytest.example import reverse
 
 
 def test_reverse():
